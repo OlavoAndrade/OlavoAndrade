@@ -1,6 +1,5 @@
 ## Oi eu sou o Olavo Andrade. Apaixonado por Análise e Desenvolvimento de Sistemas!
-<p>Estou em busca da minha primeira oportunidade na área de tecnologia. 
-Tenho como objetivo atuar com Desenvolvimento de Software & UX/UI Design.</p>
+<p>Em busca da minha primeira oportunidade na área de tecnologia. Tenho como objetivo atuar com Desenvolvimento de Software & UX/UI Design.</p>
 
 <div>  
   <a href = "mailto:Henriquemazoline@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank"=></a>
