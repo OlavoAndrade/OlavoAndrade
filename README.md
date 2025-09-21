@@ -1,38 +1,28 @@
-<!-- Título -->
+## Oi eu sou o Olavo Andrade. Apaixonado por Análise e Desenvolvimento de Sistemas!
+<p>Estou em busca da minha primeira oportunidade na área de tecnologia. Tenho como objetivo atuar com Desenvolvimento de Software & UX/UI Design.</p>
+
+<div>  
+  <a href = "mailto:Henriquemazoline@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank"=></a>
+  <a href="https://www.linkedin.com/in/olavo-andrade-b2826a197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+  
+  ##
+
 <div align="center">
-  <h1>Hello World</h1>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=OlavoAndrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoAndrade&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<!-- Presentation -->
-<div align="center">
-  <h3>Hi 👋, My name is Olavo! I'm passionate about Systems Analysis and Development.</h3>
-  <p>I'm looking for my first opportunity in technology. My goal is to work in Software Development and UX/UI Design.</p>
-</div>
-
-<!-- Links -->
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-andrade-b2826a197/)
-</div>
-
-<!-- 🔥 Skills -->
-<div align="center" style="margin-top: 20px;">
-  <h3>🔥 Skills</h3>
-
-  <!-- Ferramentas -->
-  <h4>Ferramentas e Estruturas</h4>
-  <img alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-  <!-- Desenvolvimento -->
-  <h4>I am Developing Myself</h4>
-  <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
-
-<!-- Portfolio -->
-<div align="center" style="margin-top: 20px;">
-  <h3>📂 Portfolio | Em Desenvolvimento...</h3>
-</div>
+ 
+## 📂 Portfolio | Em Desenvolvimento...
 
 <!-- GIF -->
 <div align="center" style="margin-top: 20px;">
