@@ -17,8 +17,8 @@
   ##
 
 <div align="center">
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=OlavoAndrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoAndrade&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=OlavoAndrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoAndrade&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
  
