@@ -1,4 +1,4 @@
-## Oi eu sou o Olavo Andrade. Apaixonado por Análise e Desenvolvimento de Sistemas!
+## Apaixonado por Análise e Desenvolvimento de Sistemas!
 <p>Em busca da minha primeira oportunidade na área de tecnologia. Tenho como objetivo atuar com Desenvolvimento de Software & UX/UI Design.</p>
 
 <div>  
